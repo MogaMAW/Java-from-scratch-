@@ -24,7 +24,7 @@ public class Arrays {
         System.out.println(cars[0]);
         System.out.println(cars[4]);
 
-        //to print out the entire array we use a for loop 
+        //to print out the entire array we use a for loop.
         for(int i =0; i<cars.length;i++)
         System.out.println(cars[i]);
        
