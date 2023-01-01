@@ -1,6 +1,6 @@
 public class test {
     public static void main(String[] args) {
-        String day ="Pizza" ; 
+        String day ="Pizza"; 
 
         switch (day) {
             case "Monday": System.out.println("It is a Monday.");
