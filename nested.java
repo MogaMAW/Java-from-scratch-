@@ -18,7 +18,7 @@ public class nested {
         for(int i =1; i<=rows; i++){
             System.out.println();
             for(int j =1; j<=columns; j++){
-                System.out.print(symbol); // do not print with the println function 
+                System.out.print(symbol); //do not print with the println function 
             }
         }
 
