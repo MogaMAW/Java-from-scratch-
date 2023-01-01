@@ -12,7 +12,8 @@ public class Arrays {
 
         //Method two of creating an array is by specifying the number of elements in the array
         //then assign elements into the array 
-        //finally print the elements in the array
+        //finally print the elements in the array.
+
 
         String[] cars = new String[5];
         cars[0] ="Toyota";
