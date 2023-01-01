@@ -6,7 +6,7 @@ public class main {
         System.out.println("You are an adult");
     }
     else if(age>=70){
-        System.out.println("Damn u aging");
+        System.out.println("Damn u aging.");
     }
     else{
         System.out.println("You still a kid.");
