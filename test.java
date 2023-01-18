@@ -5,6 +5,7 @@ public class test {
         switch (day) {
             case "Monday": System.out.println("It is a Monday.");
                 break;
+
         
             case "Tuesday": System.out.println("It is a Tuesday.");
                 break;
