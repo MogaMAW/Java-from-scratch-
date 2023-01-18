@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class nested {
     public static void main(String[] args) {
-        //nested loops in java = a loop inside of a loop
+        //nested loops in java = a loop inside of a loop.
         Scanner scanner= new Scanner(System.in);
         int rows;
         int columns;
