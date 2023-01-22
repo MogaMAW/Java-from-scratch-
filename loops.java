@@ -6,4 +6,5 @@ public class loops {
         System.out.println("Happy New  Month.");
     }
     
+
 }
