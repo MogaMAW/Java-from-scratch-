@@ -7,6 +7,7 @@ public class nested {
         int columns;
         String symbol = "";
 
+
         System.out.println("Enter # of rows:");
         rows = scanner.nextInt();
         System.out.println("Enter # of columns:");
