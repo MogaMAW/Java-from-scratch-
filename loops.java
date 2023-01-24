@@ -4,7 +4,7 @@ public class loops {
             System.out.println(i);
         }
 
-        System.out.println("Happy New  Month.");
+        System.out.println("Happy New Month.");
     }
     
 
