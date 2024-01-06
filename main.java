@@ -10,7 +10,7 @@ public class main {
         System.out.println("Damn! u aging now.");
     }
     else{
-        System.out.println("You still a kid.");
+        System.out.println("You still a lil kid.");
     }
    }
     
