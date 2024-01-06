@@ -4,7 +4,7 @@ public class main {
     int age = 17;
 
     if(age==18){
-        System.out.println("You are an adult.");
+        System.out.println("You are an adult now.");
     }
     else if(age>=70){
         System.out.println("Damn u aging.");
